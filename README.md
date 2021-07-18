@@ -17,8 +17,8 @@ diagonally adjacent. At each step in time, the following transitions occur:
 ### all modes
 - `C` - clear grid
 - `I` - invert colours
-- `\+` - increase frame rate cap
-- `\-` - lower frame rate cap
+- `+` - increase frame rate cap
+- `-` - lower frame rate cap
 - `Esc` - exit
 ### `prep` mode
 This is when you set up the grid
